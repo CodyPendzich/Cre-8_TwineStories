@@ -1,8 +1,2 @@
-# Brothers
-Twine Story
-
-* List 1
-* List 2
-* List 3
-
-Link: [Demo Story](https://codypendzich.github.io/Brothers-Twine/).
+# CRE-8 Twine Stories
+Link: [Check out the webpage](https://codypendzich.github.io/Cre-8_TwineStories/).
